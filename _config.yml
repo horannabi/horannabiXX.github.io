@@ -14,11 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: DevNote
-description: DevNote
+description: Developer Note
 #baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
 url: "https://horannabi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: horannabi/horannabi.github.io # for github-metadata
-remote_theme: just-the-docs/just-the-docs #### 2023-04-01 Required to use this theme ####
 
 permalink: pretty
 
