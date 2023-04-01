@@ -111,12 +111,12 @@ aux_links_new_tab: false
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # Navigation Structure
-#---
-#layout: default
-#title: Clean Code
-#nav_order: 1
-#has_children: true
-#---
+---
+layout: default
+title: Clean Code
+nav_order: 1
+has_children: true
+---
 
 # External navigation links
 #nav_external_links:
