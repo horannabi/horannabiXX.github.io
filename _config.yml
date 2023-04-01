@@ -18,7 +18,7 @@ description: Developer Note
 #baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
 url: "https://horannabi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: horannabi/horannabi.github.io # for github-metadata
-remote_theme: just-the-docs/just-the-docs #### 2023-04-01 Required to use this theme ####
+remote_theme: pmarsceill/just-the-docs #### 2023-04-01 Required to use this theme ####
 
 permalink: pretty
 
