@@ -167,6 +167,12 @@ callouts:
 plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
 
 kramdown:
   syntax_highlighter_opts:
